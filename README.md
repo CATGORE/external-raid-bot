@@ -14,6 +14,7 @@ python Raidbot.py
 `/spam` - spams using a button
 
 `/say` - you can also make it ghost say by choosing between true and false
+
 `/poll-raid` - spams polls
 
 
