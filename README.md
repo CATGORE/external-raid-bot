@@ -18,8 +18,7 @@ python Raidbot.py
 `/poll-raid` - spams polls
 
 
-> This is an external raid bot that first sends a ephemeral message and then replies to it.
-That makes it semi undetectable when raiding servers with external app enabled but people can always hower other it and you can see who used it.
+> This is an external raid bot that first sends an ephemeral message and then replies to it. That makes it semi-undetectable when raiding servers with external apps enabled, but people can always hover over it, and you can see who used it.
 
 # SPAM SHOWCASE:
 ![spam](https://files.catbox.moe/vktu34.png)
