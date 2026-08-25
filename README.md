@@ -8,6 +8,8 @@ python Raidbot.py
 # DON'T FORGET TO CHANGE YOUR TOKEN! 
 `client.run("PASTE YOUR TOKEN HERE")`
 
-# WHY BE OPEN SOURCE?
-WELL BECAUSE WE ARE CUSTOMISABLE AND THEY AREN'T.
+# COMMANDS:
+`/lagger` - lags using imojis
+`/spam` - spams using a button
+`/say` - it will say stuff. you can also make it ghost say by choosing between true and false
 # THIS IS FOR EDUCATIONAL PURPOSES ONLY! 
