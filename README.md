@@ -14,7 +14,7 @@ python Raidbot.py
 `/spam` - spams using a button
 
 `/say` - you can also make it ghost say by choosing between true and false
-
+`/poll-raid` - spams polls
 
 
 > This is an external raid bot that first sends a ephemeral message and then replies to it.
