@@ -22,6 +22,6 @@ That makes it semi undetectable when raiding servers with external app enabled b
 
 # SPAM SHOWCASE:
 ![spam](https://files.catbox.moe/vktu34.png)
-![spam button](https://files.catbox.moe/vktu34.png)
+![spam button](https://files.catbox.moe/cuz8tr.png)
 
 # THIS IS FOR EDUCATIONAL PURPOSES ONLY! 
